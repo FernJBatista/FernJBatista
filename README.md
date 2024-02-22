@@ -8,4 +8,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.hubusercontent.com/iconic/open-iconic/master/svg/glove.svg"][website]
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.hubusercontent.com/iconic/open-iconic/master/svg/glove.svg"]
