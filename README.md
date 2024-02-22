@@ -9,9 +9,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-dark.svg"#gh-dark-mode-only />][website]
-[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-light.svg"#gh-light-mode-only />][website]
 [<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-dark.svg"#gh-dark-mode-only />][linkedin]
-[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-light.svg"#gh-light-mode-only />][linkedin]
+
+[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-light.svg"#gh-dark-light-only />][website]
+[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-light.svg"#gh-dark-light-only />][linkedin]
 
 <br />
 <br />
