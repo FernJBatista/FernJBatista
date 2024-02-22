@@ -8,13 +8,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-dark.svg" />][website]
-[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-dark.svg" />][linkedin]
+[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-dark.svg"#gh-dark-mode-only />][website]
+[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-light.svg"#gh-light-mode-only />][website]
+[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-dark.svg"#gh-dark-mode-only />][linkedin]
+[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-light.svg"#gh-light-mode-only />][linkedin]
 
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernjbatista&layout=compact&bg_color=1E1E1E&title_color=f5f3ef&border_color=f5f3ef&text_color=f5f3ef)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernjbatista&layout=compact&bg_color=1E1E1E&title_color=f5f3ef&border_color=f5f3ef&text_color=f5f3ef#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernjbatista&layout=compact&bg_color=f5f3ef&title_color=1E1E1E&border_color=1E1E1E&text_color=1E1E1E#gh-dark-light-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernjbatista&show_icons=true&hide=commits&bg_color=1E1E1E&title_color=f5f3ef&border_color=f5f3ef&text_color=f5f3ef&icon_color=f5f3ef)
 
