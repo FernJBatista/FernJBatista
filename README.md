@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernjbatista&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernjbatista&show_icons=true&bg_color=#F5F3EF)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernjbatista&show_icons=true&bg_color=F5F3EF)
 
 <br />
 <br />
