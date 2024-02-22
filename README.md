@@ -8,4 +8,4 @@
 
 ### Connect with me:
 
-!["Website - Fernando Batista"](https://fernando-batista.webflow.io)
+!["Website"](https://fernando-batista.webflow.io)
