@@ -18,6 +18,8 @@
 
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernjbatista)](https://github.com/anuraghazra/github-readme-stats)
 
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernjbatista&show_icons=true)
+
 <br />
 <br />
 
