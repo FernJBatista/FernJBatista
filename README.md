@@ -16,9 +16,6 @@
 
 [![Portfolio - Website](./img/globe-light.svg)](https://fernando-batista.webflow.io#gh-light-mode-only)
 
-<br />
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernjbatista&layout=compact&bg_color=f5f3ef&title_color=1E1E1E&border_color=1E1E1E&text_color=1E1E1E)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernjbatista&show_icons=true&hide=commits&bg_color=f5f3ef&title_color=1E1E1E&border_color=1E1E1E&text_color=1E1E1E&icon_color=1E1E1E)
