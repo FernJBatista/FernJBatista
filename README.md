@@ -8,4 +8,11 @@
 
 ### Connect with me:
 
-!["Website"](https://fernando-batista.webflow.io)
+!["Portfolio"][website]
+[<img align="left" alt="Fernando Batista | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" >][linkedin]
+
+<br />
+<br />
+
+[website]: https://fernando-batista.webflow.io
+[linkedin]: https://www.linkedin.com/in/fernjbatista/
