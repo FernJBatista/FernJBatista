@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-!["Portfolio"][website]
-[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-light.svg" />][linkedin]
+[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-dark.svg" />][website]
+[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-dark.svg" />][linkedin]
 
 <br />
 <br />
