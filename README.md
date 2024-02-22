@@ -9,7 +9,7 @@
 ### Connect with me:
 
 !["Portfolio"][website]
-!["LinkedIn"][linkedin]
+![./img/linkedin-light.svg][linkedin]
 
 <br />
 <br />
