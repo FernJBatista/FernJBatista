@@ -9,7 +9,7 @@
 ### Connect with me:
 
 !["Portfolio"][website]
-[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-light.svg"][linkedin]
+[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-light.svg" />][linkedin]
 
 <br />
 <br />
