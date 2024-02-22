@@ -11,6 +11,9 @@
 [<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-dark.svg" />][website]
 [<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-dark.svg" />][linkedin]
 
+<br />
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
