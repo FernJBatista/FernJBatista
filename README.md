@@ -10,11 +10,11 @@
 
 [![Portfolio - Website](./img/globe-dark.svg)](https://fernando-batista.webflow.io#gh-dark-mode-only)
 
-[![Portfolio - Website](./img/globe-light.svg)](https://fernando-batista.webflow.io#gh-light-mode-only)
+[![LinkedIn - Fernando Batista](./img/linkedin-dark.svg)](https://fernando-batista.webflow.io#gh-dark-mode-only)
 
 [![LinkedIn - Fernando Batista](./img/linkedin-light.svg)](https://fernando-batista.webflow.io#gh-light-mode-only)
 
-[![LinkedIn - Fernando Batista](./img/linkedin-dark.svg)](https://fernando-batista.webflow.io#gh-dark-mode-only)
+[![Portfolio - Website](./img/globe-light.svg)](https://fernando-batista.webflow.io#gh-light-mode-only)
 
 <br />
 <br />
