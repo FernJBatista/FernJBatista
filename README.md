@@ -8,12 +8,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-light.svg#gh-light-mode-only"/>][website]
-[<img align="left" alt="Portfolio | Fernando Batista" width="22px" src="/img/globe-dark.svg#gh-dark-mode-only"/>][website]
+[![Portfolio - Website](./img/globe-dark.svg)](https://fernando-batista.webflow.io#gh-dark-mode-only)
 
-[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-light.svg#gh-dark-light-only"/>][linkedin]
+[![Portfolio - Website](./img/globe-light.svg)](https://fernando-batista.webflow.io#gh-light-mode-only)
 
-[<img align="left" alt="LinkedIn | Fernando Batista" width="22px" src="/img/linkedin-dark.svg#gh-dark-mode-only"/>][linkedin]
+[![LinkedIn - Fernando Batista](./img/linkedin-light.svg)](https://fernando-batista.webflow.io#gh-light-mode-only)
+
+[![LinkedIn - Fernando Batista](./img/linkedin-dark.svg)](https://fernando-batista.webflow.io#gh-dark-mode-only)
 
 <br />
 <br />
